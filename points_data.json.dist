@@ -1,0 +1,11 @@
+{
+    "user_data": {
+        "ActiveSystemOwns": 0,
+        "ActiveUserOwns": 0,
+        "ActiveChallengeOwns": 0
+    },
+    "htb_data": {
+        "activeMachines": 0,
+        "activeChallenges": 0
+    }
+}
